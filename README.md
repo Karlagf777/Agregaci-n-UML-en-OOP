@@ -1,2 +1,2 @@
 # Agregación-UML-en-OOP
-Este proyecto muestra como usar la relación composición en c#
+Este proyecto muestra como usar la relación agregación en c#
